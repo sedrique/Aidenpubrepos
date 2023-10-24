@@ -1,2 +1,0 @@
-# Aidenpubrepos
-Devops project
